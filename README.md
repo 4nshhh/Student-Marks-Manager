@@ -6,21 +6,23 @@ It demonstrates basic file handling, CSV parsing, and data processing in Python.
 ---
 
 ## 📂 Project Structure
-
+```
 student-marks-manager/
 ├── students.csv # Input file with student data
 ├── main.py # Python script to process the data
 └── README.md # Project documentation
-
+```
 ---
 
 ## 📄 About the Data
 
-The `students.csv` file contains records in the following format:
-Name,Marks,Subject,RollNumber
-Ansh,78,Sci,67
-Lata,36,Guj,23
-Alex,37,SS,43
+The `students.csv` file contains records in the following format:  
+**Name,Marks,Subject,RollNumber**
+
+**Example entries:**
+- Ansh,78,Sci,67  
+- Lata,36,Guj,23  
+- Alex,37,SS,43
 
 
 Each line has:
