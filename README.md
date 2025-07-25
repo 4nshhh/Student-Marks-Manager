@@ -45,6 +45,7 @@ Make sure you have Python installed. Then open a terminal in this folder and run
 
 ```bash
 python main.py
+```
 
 🛠️ Requirements
 No external libraries required. Only Python's built-in modules are used.
