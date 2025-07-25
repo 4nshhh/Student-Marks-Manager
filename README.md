@@ -49,7 +49,8 @@ Make sure you have Python installed. Then open a terminal in this folder and run
 python main.py
 ```
 
-🛠️ Requirements
+## 🛠️ Requirements
+
 No external libraries required. Only Python's built-in modules are used.
 
 ## 🌱 About This Project
@@ -59,6 +60,7 @@ I'm currently learning Python and practicing by building small CLI-based apps.
 This project helped me understand file I/O, loops, conditionals, and basic data structures in Python.
 
 
-👤 Author
+## 👤 Author
+
 Made with ❤️ by Anshh
 [GitHub Profile](https://github.com/4nshhh)
