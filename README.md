@@ -58,4 +58,4 @@ This project helped me understand file I/O, loops, conditionals, and basic data 
 
 👤 Author
 Made with ❤️ by Anshh
-GitHub: github.com/4nshhhh
+[GitHub Profile](https://github.com/4nshhhh)
